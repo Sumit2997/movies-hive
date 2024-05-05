@@ -13,7 +13,10 @@
 -created redux store using userSlice
 -implemented signout 
 -update profile
-
+-bug fix:sign up user display name
+-bugfix:if user us not logged in redirect /browse to login page and vice versa
+-Unsubscribe to the onAuthStateChanged callback
+-Add harcoded values to the constants 
 
 # features 
 -login/signUp
