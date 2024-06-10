@@ -17,6 +17,9 @@
 -bugfix:if user us not logged in redirect /browse to login page and vice versa
 -Unsubscribe to the onAuthStateChanged callback
 -Add harcoded values to the constants 
+-register for tmdb api and create an app and get access token
+-get data from tmdb now playing movies list api
+
 
 # features 
 -login/signUp
