@@ -19,7 +19,15 @@
 -Add harcoded values to the constants 
 -register for tmdb api and create an app and get access token
 -get data from tmdb now playing movies list api
-
+-custom hook for nowplaying movies 
+-create a movieslice
+-update store with movies
+-planning for manicontainer &secondary container 
+-fetch data for trailer video 
+-update store with trailer 
+-embedded youtube video & make it autoplay and mute
+-tailwind is used to make main container better
+-build secondary container
 
 # features 
 -login/signUp
