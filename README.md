@@ -28,6 +28,17 @@
 -embedded youtube video & make it autoplay and mute
 -tailwind is used to make main container better
 -build secondary container
+-build movie list
+-build movie card
+-tmdb image cdn url
+-made the browser page a better ui
+-usePopularMovies Custom Hooks
+-GPT search feature
+-gpt seatch page
+-gpt search bar 
+-(feature)multi-lang feature in app
+-integrate gpt apis
+
 
 # features 
 -login/signUp
